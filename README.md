@@ -9,9 +9,9 @@
 | --- | --- | --- | --- | --- |
 | 1 | 7569 |토마토 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/7569)|
 | 2 | 1707 | 이분그래프| Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1707)|
-| 3 | 2146 | 다리 만들기| Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1707) |
-| 4 | 2573 |빙산 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1707) |
-| 5 | 9466 | 텀 프로젝트| Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1707) |
+| 3 | 2146 | 다리 만들기| Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2146) |
+| 4 | 2573 |빙산 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2573) |
+| 5 | 9466 | 텀 프로젝트| Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/9466) |
 
  
 
