@@ -1,4 +1,4 @@
-# 💪🏻SSAFYGYM 알고리즘 스터디
+# 💪🏻SSAFYGYM 알고리즘 스터디💪🏻
 -----
 ## 1주차: DFS와 BFS
 ### 알고리즘 유형: DFS와 BFS
