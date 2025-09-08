@@ -20,11 +20,11 @@
 ### ➡️ 백준 문제집 [시뮬레이션 - 바로가기](https://www.acmicpc.net/workbook/view/6832)
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
 | --- | --- | --- | --- | --- |
-| 1 | 10703 | 유성 | 실버1 | [풀러 가기](https://www.acmicpc.net/problem/10703) |
-| 2 | 2469 | 사다리 타기 | 골드5 | [풀러 가기](https://www.acmicpc.net/problem/2469) |
-| 3 | 3190 | 뱀 | 골드4 | [풀러 가기](https://www.acmicpc.net/problem/3190) |
-| 4 | 17779 | 게리맨더링2 | 골드2 | [풀러 가기](https://www.acmicpc.net/problem/17779) |
-| 5 | 12100 | 2048(Easy) | 골드1 | [풀러 가기](https://www.acmicpc.net/problem/12100) |
+| 1 | 10703 | 유성 | Silver 1 | [풀러 가기](https://www.acmicpc.net/problem/10703) |
+| 2 | 2469 | 사다리 타기 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/2469) |
+| 3 | 3190 | 뱀 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/3190) |
+| 4 | 17779 | 게리맨더링2 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/17779) |
+| 5 | 12100 | 2048(Easy) | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/12100) |
 
 
 
