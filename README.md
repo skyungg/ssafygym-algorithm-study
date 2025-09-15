@@ -33,9 +33,9 @@
 #### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12486)
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
 | --- | --- | --- | --- | --- |
-| 1 | 2805 | 나무자르기 | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/2805) |
-| 2 | 2470 | 두용액 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/2470) |
-| 3 | 2110 | 공유기설치 |  Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2110) |
+| 1 | 2805 | 나무 자르기 | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/2805) |
+| 2 | 2470 | 두 용액 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/2470) |
+| 3 | 2110 | 공유기 설치 |  Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2110) |
 | 4 | 1939 | 중량제한 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1939) |
 | 5 | 1300 | K 번째 수 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/1300) |
 
