@@ -1,5 +1,4 @@
 # 💪🏻SSAFYGYM 알고리즘 스터디💪🏻
-</br>
 
 ## 목차
 [1. 1주차: DFS와 BFS](#1주차.-DFS와-BFS) </br>
