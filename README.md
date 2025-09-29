@@ -61,6 +61,19 @@
 | 5 | 8980 | 택배 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/8980) |
 </br>
 
+## 5주차.
+### 📁 알고리즘 유형: DP(동적계획법)
+### ➡️ 백준 문제집 [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_2)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12244)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 11053 | 가장 긴 증가하는 부분 수열 | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/11053) |
+| 2 | 15486 | 퇴사2 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/15486) |
+| 3 | 12865 | 평범한 배낭 | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/12865) |
+| 4 | 2631 | 줄세우기 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/2631) |
+| 5 | 2629 | 양팔저울 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2629) |
+</br>
+
 
 <!--
 ## N주차.
