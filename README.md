@@ -61,10 +61,10 @@
 | 5 | 8980 | 택배 | Gold 1 | [풀러 가기](https://www.acmicpc.net/problem/8980) |
 </br>
 
-## 5주차.
+## 5주차.DP(동적계획법)
 ### 📁 알고리즘 유형: DP(동적계획법)
-### ➡️ 백준 문제집 [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_2)
-#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12244)
+### ➡️ 백준 문제집 [바로가기1](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_1) / [바로가기2](https://github.com/tony9402/baekjoon/tree/main/algorithms/dynamic_programming_2)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기](https://school.programmers.co.kr/learn/courses/30/parts/12263)
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
 | --- | --- | --- | --- | --- |
 | 1 | 11053 | 가장 긴 증가하는 부분 수열 | Silver 2 | [풀러 가기](https://www.acmicpc.net/problem/11053) |
