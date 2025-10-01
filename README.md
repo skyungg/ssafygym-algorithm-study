@@ -74,6 +74,19 @@
 | 5 | 2629 | 양팔저울 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2629) |
 </br>
 
+## N주차.투포인터
+### 📁 알고리즘 유형: 투포인터
+### ➡️ 백준 문제집 [바로가기](https://github.com/tony9402/baekjoon/tree/main/algorithms/two_pointer)
+#### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기]()
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 20921 | 블로그 | Silver 3 | [풀러 가기](https://www.acmicpc.net/problem/21921) |
+| 2 | 15961 | 회전 초밥 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/15961) |
+| 3 | 1806 | 부분합 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1806) |
+| 4 | 2473 | 세 용액 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/2473) |
+| 5 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
+</br>
+
 
 <!--
 ## N주차.
