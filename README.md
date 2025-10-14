@@ -7,6 +7,8 @@
 [4. 4주차: 그리디](#4주차.-그리디) </br>
 [5. 5주차: DP(동적계획법)](#5주차.-DP(동적계획법)) </br>
 [6. 6주차: 투포인터](#6주차.-투포인터) </br>
+[7. 7주차: 최단거리](#7주차.-최단거리) </br>
+[8. 8주차: 분리집합과 최소 스패팅 트리](#8주차.-최단거리) </br>
 </br>
 
 ## 1주차. DFS와 BFS
@@ -89,6 +91,29 @@
 | 5 | 1644 | 소수의 연속합 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1644) |
 </br>
 
+## 7주차.최단거리
+### 📁 알고리즘 유형: 최단거리
+### ➡️ 백준 문제집 [바로가기](https://www.acmicpc.net/workbook/view/7273)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 11657 | 타임머신 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/11657) |
+| 2 | 10159 | 저울  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/10159) |
+| 3 | 1753  | 최단경로 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1753) |
+| 4 | 14938 | 서강그라운드 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/14938) |
+| 5 | 1865  | 웜홀 | Gold 3 | [풀러 가기](https://www.acmicpc.net/problem/1865) |
+
+</br>
+
+## 8주차.분리집합과 최소 스패팅 트리
+### 📁 알고리즘 유형:분리집합과 최소 스패팅 트리
+### ➡️ 백준 문제집 [분리집합-바로가기](https://www.acmicpc.net/workbook/view/6784) / [최소스패닝트리-바로가기](https://www.acmicpc.net/workbook/view/7175)
+| 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
+| --- | --- | --- | --- | --- |
+| 1 | 1717 | 집합의표현  | Gold 5 | [풀러 가기](https://www.acmicpc.net/problem/1717) |
+| 2 | 1976 | 여행가자  | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1976) |
+| 3 | 4195 | 친구네트워크 | Gold 2 | [풀러 가기](https://www.acmicpc.net/problem/4195) |
+| 4 | 1647 | 도시분할계획 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1647) |
+| 5 | 1922 | 네트워크연결 | Gold 4 | [풀러 가기](https://www.acmicpc.net/problem/1922) |
 
 <!--
 ## N주차.
@@ -97,10 +122,10 @@
 #### 💖Option) 프로그래머스에서 유사한 유형을 풀어 보고 싶다면? -> 알고리즘 고득점 Kit [바로가기]()
 | 순번 | 문제 번호| 문제이름 | 티어 | 풀이 링크 |
 | --- | --- | --- | --- | --- |
-| 1 |  |  |  | [풀러 가기]() |
-| 2 |  |  |  | [풀러 가기]() |
-| 3 |  |  |  | [풀러 가기]() |
-| 4 |  |  |  | [풀러 가기]() |
-| 5 |  |  |  | [풀러 가기]() |
+| 1 |  |  |  | [풀러 가기](https://www.acmicpc.net/problem/) |
+| 2 |  |  |  | [풀러 가기](https://www.acmicpc.net/problem/) |
+| 3 |  |  |  | [풀러 가기](https://www.acmicpc.net/problem/) |
+| 4 |  |  |  | [풀러 가기](https://www.acmicpc.net/problem/) |
+| 5 |  |  |  | [풀러 가기](https://www.acmicpc.net/problem/) |
 </br>
 -->
